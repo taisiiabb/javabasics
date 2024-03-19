@@ -1,0 +1,19 @@
+Compound operators/ShortHandOperators:
+Help  us perform some calculations by writing shorter code.
++=  -=, *=, /=
+
+Type Casting :
+Is converting teh data from one type to another type
+    >>>from smaller to bigger: //widening/automatic/implicit
+    >>>from bigger to smaller: //narrowing/manual/explicit
+
+Relational operators;
+    Help us compare h=things
+    ==
+    !=
+    >
+    <
+    >=
+    <=
+
+If else statements:

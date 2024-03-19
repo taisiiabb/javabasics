@@ -1,0 +1,10 @@
+Loops help us repeat the block of the code until and condition fails.
+    1. While loop
+    2. Do While Loop
+    3. For loop
+    4. Enhanced For loop
+While loop:
+    Uses a boolean condition, when we don't know the number of iterations beforehand.
+    For example, when we are searching for the product from amazon we keep on clicking
+    the next button until we find it.
+Do while loop:

@@ -1,0 +1,17 @@
+Difference between print and println
+What are variables? - variables are like boxes that store data.
+data types are used to store/identify different types of data in variables
+
+Primitive: there are 8 basic data types in Java:
+Whole numbers from small to large:
+byte -> short -> int -> long
+
+char - smallest container for storing the characters
+
+float -> small container for decimals
+double -> medium container for decimals
+
+boolean - to store True or False
+
+Non-primitive data type:
+String

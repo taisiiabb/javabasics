@@ -1,0 +1,10 @@
+if statements
+    one condition ine action
+if else statements
+    one condition two actions
+if else if statements
+    multiple conditions multiple actions
+
+
+Nested if
+    When one condition is dependent on another conditions that is when we use nested cond

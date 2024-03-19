@@ -1,0 +1,16 @@
+Break is used in "if" loop the same way like in switch to prematurely break the operation.
+The break stops the loop once the condition is met
+Why we use break:
+    If we use break we can save a lot of unnecessary processing by terminating
+    the loop once the goal is complete.
+Continue:
+    Is used to skin unnecessary calculations. If an element meets a condition that element
+    is skipped and we move to next element.
+
+   Note: Break and continue keyword are always used in the if loop
+   Continue skips iterations that don't match the if loop condition.
+
+   2D array:
+   2D array is simply multiple one D arrays combined together in the form of rows and columns;
+   To pull the stored information you need to ... (add from Asghar's notes)
+

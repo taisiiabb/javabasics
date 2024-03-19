@@ -1,0 +1,3 @@
+Scanner:
+    Scanner is a class just like the classes that we create but is specially designed so that others can use it
+    This class has a lot methods which can help us take the input from te keyboard
